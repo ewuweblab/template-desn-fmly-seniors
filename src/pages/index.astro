@@ -3,11 +3,15 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import StudentCard from "../components/StudentCard.astro";
 import data from "../data/data.json";
 
+// data object
 const { students } = data;
+// variables
+const title = 'DESN FMLY Seniors'
 ---
 
-<BaseLayout title="DESN Seniors">
-  <h1>Seniors &rsquo;26</h1>
+<BaseLayout title={title}>
+  
+  <h1> {title} </h1>
   <div class="grid">
     {students.map((student) => (
       <StudentCard {...student} />
