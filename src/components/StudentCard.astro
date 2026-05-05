@@ -21,8 +21,7 @@ const { name, image, favorite_emoji, github_permalink, github_profile, codepen_p
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
-    border-right: 1px solid #e0e0e0;
-    border-bottom: 1px solid #e0e0e0;
+    border: 1px solid lightgray;
   }
 
   .card img {
@@ -30,16 +29,13 @@ const { name, image, favorite_emoji, github_permalink, github_profile, codepen_p
     aspect-ratio: 3 / 2;
     object-fit: cover;
     display: block;
-    background: #f0f0f0;
   }
 
   .card-name {
-    font-weight: 600;
-    font-size: 0.9rem;
-  }
+    }
 
   .card-emoji {
-    font-size: 1.1rem;
+  
   }
 
   .card-links {
@@ -53,10 +49,10 @@ const { name, image, favorite_emoji, github_permalink, github_profile, codepen_p
     color: #555;
     text-decoration: none;
     border-bottom: 1px solid currentColor;
-    line-height: 1;
   }
 
   .card-links a:hover {
-    color: #000;
+    background: gray;
+    color: white;
   }
 </style>
