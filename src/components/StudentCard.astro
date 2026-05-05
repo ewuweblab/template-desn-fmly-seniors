@@ -2,17 +2,17 @@
 const { name, image, favorite_emoji, github_permalink, github_profile, codepen_profile } = Astro.props;
 ---
 
-<div class="card">
+<article class="card">
   <img src={image} alt={name} loading="lazy" />
-  <div class="card-name">
+  <h2 class="card-name">
     <span class="card-emoji">{favorite_emoji}</span> {name}
-  </div>
-  <div class="card-links">
+  </h2>
+  <nav class="card-links">
     <a href={github_permalink} target="_blank" rel="noopener">Portfolio</a>
     <a href={github_profile} target="_blank" rel="noopener">GitHub</a>
     <a href={codepen_profile} target="_blank" rel="noopener">CodePen</a>
-  </div>
-</div>
+  </nav>
+</article>
 
 <style>
   .card {
@@ -45,9 +45,8 @@ const { name, image, favorite_emoji, github_permalink, github_profile, codepen_p
   }
 
   .card-links a {
-    font-size: 0.75rem;
-    color: #555;
     text-decoration: none;
+    color: goldenrod;
     border-bottom: 1px solid currentColor;
   }
 
