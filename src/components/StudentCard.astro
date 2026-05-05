@@ -1,11 +1,12 @@
 ---
 const { name, image, favorite_emoji, github_permalink, github_profile, codepen_profile } = Astro.props;
+const slug = name.toLowerCase().replace(/\s+/g, "-");
 ---
 
 <article class="card">
   <img src={image} alt={name} loading="lazy" />
   <h2 class="card-name">
-    <span class="card-emoji">{favorite_emoji}</span> {name}
+    <a href={`/${slug}`}><span class="card-emoji">{favorite_emoji}</span> {name}</a>
   </h2>
   <nav class="card-links">
     <a href={github_permalink} target="_blank" rel="noopener">Portfolio</a>
