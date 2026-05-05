@@ -1,0 +1,21 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+  h1 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1px;
+    border: 1px solid #e0e0e0;
+  }
