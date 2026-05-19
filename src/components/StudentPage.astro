@@ -3,7 +3,12 @@ const { name, image, favorite_emoji, github_permalink, github_profile, codepen_p
 const slug = name.toLowerCase().replace(/\s+/g, "-");
 ---
 
-<img src={image} alt={name} transition:name={`photo-${slug}`} />
+<nav>
+  <a href="./">Back</a>
+</nav>
+
+<img src={image} alt={name} 
+transition:name={`photo-${slug}`} />
 
 <h1 transition:name={`name-${slug}`}><span>{favorite_emoji}</span> {name}</h1>
 <nav>

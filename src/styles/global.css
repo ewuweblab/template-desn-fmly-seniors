@@ -13,3 +13,24 @@ main {
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 1em;
 }
+
+/* Custom CSS Animations for Transition */
+/* Entering the new page */
+/* ::view-transition-new(*) {
+  animation: 400ms ease-out both scale-in;
+} */
+
+/* Leaving the old page */
+/* ::view-transition-old(*) {
+  animation: 400ms ease-in both scale-out;
+} */
+
+/* @keyframes scale-in {
+  from { transform: scale(0.85); opacity: 0; }
+  to   { transform: scale(1); opacity: 1; }
+}
+
+@keyframes scale-out {
+  from { transform: scale(1);    opacity: 1; }
+  to   { transform: scale(0.85); opacity: 0; }
+} */
