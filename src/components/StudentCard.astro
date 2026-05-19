@@ -4,8 +4,10 @@ const slug = name.toLowerCase().replace(/\s+/g, "-");
 ---
 
 <figure class="card">
-  <img src={image} alt={name} loading="lazy" />
-  <figcaption class="card-name">
+  
+  <img src={image} alt={name} loading="lazy" transition:name={`photo-${slug}`} />
+
+  <figcaption class="card-name" transition:name={`name-${slug}`}>
     <a href={`/${slug}`}><span class="card-emoji">{favorite_emoji}</span> {name}</a>
   </figcaption>
   <nav class="card-links">
