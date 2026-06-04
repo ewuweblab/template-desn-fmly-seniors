@@ -11,8 +11,18 @@ export function getStaticPaths() {
 }
 
 const { student } = Astro.props;
+
+const photoImports = import.meta.glob<{ default: ImageMetadata }>(
+  "../assets/senior-photo/*.jpg"
+);
+
+const filename = student.image.split("/").pop();
+const key = `../assets/senior-photo/${filename}`;
+const resolvedImage = key in photoImports
+  ? (await photoImports[key]()).default
+  : student.image;
 ---
 
 <BaseLayout title={student.name}>
-  <StudentPage {...student} />
+  <StudentPage {...student} image={resolvedImage} />
 </BaseLayout>

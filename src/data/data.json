@@ -2,111 +2,201 @@
   "students": [
     {
       "name": "Bea Smith",
-      "codepen_profile": "https://codepen.io/Beasmith24",
-      "github_profile": "https://github.com/beasmith152",
-      "github_permalink": "https://beasmith152.github.io",
-      "favorite_emoji": "🐝",
-      "image": "https://avatars.githubusercontent.com/beasmith152",
-      "bio": "Bea is a graphic designer with a love for branding and editorial layout. She finds inspiration in nature and brings a warm, organic aesthetic to her work."
+      "favorite_emoji": "⚓",
+      "image": "/senior-photo/Bea Smith.jpg",
+      "bio": "I'm Bea Smith, a designer focused on creating work that feels intentional, purposeful, and provoking. I started in graphic design, building a foundation in branding, typography, and composition. Graduating from Meridian Technical Charter High School in the Design Program; Earning my Adobe Suite Certs. Over time, I realized that while I valued that structure, I wanted to push beyond it; into work that carries more personality, cultural influence and makes a difference to my clients.",
+      "song": "https://open.spotify.com/track/6rzdvKdEt0a346GKKajMWf?si=e2a1f8f16d5a4473",
+      "quote": "\"If you're going through hell, keep going.\" - Winston Churchill",
+      "yourURL": "https://rwzdesigns.com/"
     },
     {
       "name": "Justine Leinen",
-      "codepen_profile": "https://codepen.io/jleinen1",
-      "github_profile": "https://github.com/jleinen1",
-      "github_permalink": "https://jleinen1.github.io",
-      "favorite_emoji": "🌸",
-      "image": "https://avatars.githubusercontent.com/jleinen1",
-      "bio": "Justine specializes in UI design and illustration. She is drawn to soft color palettes and designs that feel both playful and intentional."
+      "favorite_emoji": "🌙",
+      "image": "/senior-photo/Justine Leinen.jpg",
+      "bio": "I'm a Bay Area native currently studying at EWU. I love art, drawing, and music. You can usually find me watching scary movies or hanging out with my friends.",
+      "song": "https://youtu.be/r4l9bFqgMaQ?si=ASKIVHjqopnaq1WK",
+      "quote": "\"Never change. Or do. I'm not your boss.\" -Troy Barnes",
+      "yourURL": "https://www.instagram.com/justineroseart/"
     },
     {
       "name": "Brittany Wallace",
-      "codepen_profile": "https://codepen.io/bwallace11",
-      "github_profile": "https://github.com/bwallace11",
-      "github_permalink": "https://bwallace11.github.io",
-      "favorite_emoji": "🎨",
-      "image": "https://avatars.githubusercontent.com/bwallace11",
-      "bio": "Brittany is a multidisciplinary designer passionate about color theory and visual storytelling. She enjoys working across print and digital media."
+      "favorite_emoji": "🦊",
+      "image": "/senior-photo/Brittany Wallace.jpg",
+      "bio": "I'm someone who loves creativity in all kinds of forms, from design and storytelling to music, games, websites, and anything with a strong visual style. I've always been drawn to making things feel personal and meaningful, whether that's building a concept for a project, creating a character, designing a layout, or chasing down the exact right vibe like it owes me money. I'm inspired by nostalgic styles, bold visuals, weird little ideas, and creative work that has personality. I'm also kind of a goofball, so I like bringing humor and fun into what I do whenever I can. My path has not always been simple, but I've learned to keep growing, trying new things, and turning my interests into something I can share with others.",
+      "song": "https://www.youtube.com/watch?v=IuUDRU9-HRk&list=RDGMEM6ijAnFTG9nX1G-kbWBUCJAVMIuUDRU9-HRk&start_radio=1",
+      "quote": "\"Growth feels weird when chaos used to feel normal.\"",
+      "yourURL": "https://bwallace11.github.io/"
     },
     {
       "name": "Isabella Valdez",
-      "codepen_profile": "https://codepen.io/ValdezIzzy",
-      "github_profile": "https://github.com/ValdezIzzy",
-      "github_permalink": "https://valdezizzy.github.io",
-      "favorite_emoji": "✨",
-      "image": "https://avatars.githubusercontent.com/ValdezIzzy",
-      "bio": "Isabella is a web and brand designer who loves creating polished, detail-driven experiences. Her work blends elegance with clear, purposeful communication."
+      "favorite_emoji": "😐",
+      "image": "/senior-photo/Isabella Valdez.jpg",
+      "bio": "Hi, I'm Izzy! I'm a VCD student at EWU who enjoys graphic design, UX design, and web development. When I'm not designing, you'll usually find me drawing, playing bass, skateboarding, reading graphic novels, or working on creative projects that I don't finish.",
+      "song": "https://youtu.be/5abamRO41fE?si=X1MjN4hN5bpJwM03",
+      "quote": "\"The inner machinations of my mind are an enigma.\" — Patrick Star",
+      "yourURL": "https://www.instagram.com/i22y_v?igsh=MWZ5YnI5aDJvbTZiNA=="
     },
     {
       "name": "Emily Herbert",
-      "codepen_profile": "https://codepen.io/emilyherb",
-      "github_profile": "https://github.com/emilyherb",
-      "github_permalink": "https://emilyherb.github.io",
-      "favorite_emoji": "🌿",
-      "image": "https://avatars.githubusercontent.com/emilyherb",
-      "bio": "Emily is a designer with a focus on sustainability and environmental communication. Her work reflects a deep appreciation for the natural world."
+      "favorite_emoji": "💌",
+      "image": "/senior-photo/Emily Herbert.jpg",
+      "bio": "Emily Herbert is a designer and developer finishing her CS and Design degree at Eastern Washington University. With roots in cosmetology and a continued passion for the beauty world, she approaches digital design with the same instincts: precision, aesthetic intention, and a focus on how things feel to the person experiencing them. Her work spans web development, social media, and brand identity, all with an eye for what makes something feel effortlessly right.",
+      "song": "https://www.youtube.com/watch?v=SAclDL5_JRY&list=RDSAclDL5_JRY&start_radio=1",
+      "quote": "The sun will rise",
+      "yourURL": "emc0ded.com"
     },
     {
       "name": "Landon Umland",
-      "codepen_profile": "https://codepen.io/lumland03",
-      "github_profile": "https://github.com/lumland03",
-      "github_permalink": "https://lumland03.github.io",
       "favorite_emoji": "🦋",
-      "image": "https://avatars.githubusercontent.com/lumland03",
-      "bio": "Landon is a designer interested in motion and interactive experiences. He approaches each project as an opportunity to explore transformation and change."
+      "image": "/senior-photo/Landon Umland.jpg",
+      "bio": "I am a design student focusing on web design and development. I enjoy bugs, music, games, and building computers.",
+      "song": "https://open.spotify.com/track/53jogSv23P6DFcOHcZrDs9?si=4be22529c1624609",
+      "quote": "\"I sold my RAM to pay for tuition\" - Landon",
+      "yourURL": "mothcentral.com"
     },
     {
       "name": "Donnie Thurman",
-      "codepen_profile": "https://codepen.io/donniethurman",
-      "github_profile": "https://github.com/donniethurman",
-      "github_permalink": "https://donniethurman.github.io",
-      "favorite_emoji": "🎯",
-      "image": "https://avatars.githubusercontent.com/donniethurman",
-      "bio": "Donnie is a strategic thinker and visual communicator who excels at solving complex design problems. He is known for hitting the mark on both form and function."
+      "favorite_emoji": "🤩",
+      "image": "/senior-photo/Donnie Thurman.jpg",
+      "bio": "I enjoy web and social media design! For fun I backpack and go hiking! I like to read, draw, and do yoga!",
+      "song": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO?si=QnlIq3gRQdaD1ZZjeDSUQQ",
+      "quote": "C'est la vie",
+      "yourURL": "https://www.instagram.com/_dtdesigns?igsh=MWVrcW1ld3BraXp1ag%3D%3D&utm_source=qr"
     },
     {
       "name": "Sydney Lincoln",
-      "codepen_profile": "https://codepen.io/Sydney-Lincoln",
-      "github_profile": "https://github.com/xoxobeau06",
-      "github_permalink": "https://xoxobeau06.github.io",
-      "favorite_emoji": "💎",
-      "image": "https://avatars.githubusercontent.com/xoxobeau06",
-      "bio": "Sydney is a designer with an eye for luxury and refinement. Her portfolio reflects a strong command of typography and high-end visual aesthetics."
+      "favorite_emoji": "🤭",
+      "image": "/senior-photo/Sydney Lincoln.jpg",
+      "bio": "I am a baby designer (still learning) but I love visual system design, I love any and all kinds of tea, I love to do \"grandma\" hobbies, I have a great dane named effie",
+      "song": "https://open.spotify.com/track/5vUwvYW5fpHrwHfirVpkHn?si=2b2b9c0da83c4358",
+      "quote": "\"There are three things you can never have enough of in your life; chocolate, friends, and the theatre.",
+      "yourURL": "https://www.pinterest.com/slincolnmarie/?actingBusinessId=1018235934409246073"
     },
     {
       "name": "Ian Szymanski",
-      "codepen_profile": "https://codepen.io/I_Squiddy",
-      "github_profile": "https://github.com/IanSzymanski",
-      "github_permalink": "https://ianszymanski.github.io",
-      "favorite_emoji": "🦑",
-      "image": "https://avatars.githubusercontent.com/IanSzymanski",
-      "bio": "Ian is a front-end focused designer who loves diving deep into CSS and interactive web experiments. He brings a technical curiosity to every creative challenge."
+      "favorite_emoji": "👀",
+      "image": "/senior-photo/Ian Szymanski.jpg",
+      "bio": "Ian Szymanski is a designer who specializes in marketing and branding across all mediums. Ian solves problems through simple, effective design. He believes in lifting up anyone who isn't giving their all, inspiring people to be the best forms of themselves. When not creating for others, Ian creates for himself. Playing and arranging music are both long-time hobbies for Ian. He shares his love of music with others in many ways,  even random comments about music theory to anyone who will listen.",
+      "song": "https://www.youtube.com/watch?v=AOhFzDN3eMI&list=RDAOhFzDN3eMI&start_radio=1",
+      "quote": "Hm, I'd have to get back to you on that.",
+      "yourURL": "https://github.com/IanSzymanski"
     },
     {
       "name": "Michael Bushyeager",
-      "codepen_profile": "https://codepen.io/Michael-Bushyeager05",
-      "github_profile": "https://github.com/mbushyeager05",
-      "github_permalink": "https://mbushyeager05.github.io",
-      "favorite_emoji": "🌲",
-      "image": "https://avatars.githubusercontent.com/mbushyeager05",
-      "bio": "Michael is a designer rooted in the Pacific Northwest with a passion for outdoor and environmental branding. His work is grounded, bold, and built to last."
+      "favorite_emoji": "🥸",
+      "image": "/senior-photo/Michael Bushyeager.jpg",
+      "bio": "I am a Visual Communication Design graduate who spent four years turning coffee and indie music into brand identities, editorial magazines, illustrated fish, and car air fresheners. When I am not designing, you can find me working at LEGO in Spokane, bowling, or convincing people that Risograph printing is actually cool. I'm always looking for a good cup of coffee!  I am heading into the design world ready to make things that look good and mean something. Warm. Approachable. Intentional.",
+      "song": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "quote": "Life is fragile. We're not guaranteed a tomorrow so give it everything you've got. - Tim Cook",
+      "yourURL": "https://www.instagram.com/mbushyeager.design/"
     },
     {
       "name": "Tayla Eliason",
-      "codepen_profile": "https://codepen.io/teliasont",
-      "github_profile": "https://github.com/teliasont",
-      "github_permalink": "https://teliasont.github.io",
-      "favorite_emoji": "🎭",
-      "image": "https://avatars.githubusercontent.com/teliasont",
-      "bio": "Tayla is a designer with a background in theater and performance arts. She brings a dramatic sense of composition and narrative to her visual projects."
+      "favorite_emoji": "🛸",
+      "image": "/senior-photo/Tayla Eliason.jpg",
+      "bio": "Hello! I am a graphic design student at EWU. When not juggling school, softball, and work, you can usually find me in the middle of a book. I also have a cat, so that's cool.",
+      "song": "https://youtu.be/78yrwqSGbQU?si=c7R9Sy5XILAZVDXW",
+      "quote": "",
+      "yourURL": "LinkedIn: https://www.linkedin.com/in/teliasont Github: https://github.com/teliasont"
     },
     {
       "name": "Peyton Whiteley",
-      "codepen_profile": "https://codepen.io/pknox",
-      "github_profile": "https://github.com/p3ytonk",
-      "github_permalink": "https://p3ytonk.github.io",
       "favorite_emoji": "🚀",
       "image": "https://avatars.githubusercontent.com/p3ytonk",
-      "bio": "Peyton is an ambitious designer driven by emerging technology and future-forward thinking. They are always experimenting with new tools and pushing creative boundaries."
+      "bio": "Peyton is an ambitious designer driven by emerging technology and future-forward thinking. They are always experimenting with new tools and pushing creative boundaries.",
+      "song": "",
+      "quote": "",
+      "yourURL": ""
+    },
+    {
+      "name": "Jaeden Ives-Crow",
+      "favorite_emoji": "🦦",
+      "image": "/senior-photo/Jaeden Ives-Crow.jpg",
+      "bio": "Passionate about people. Curating experiences\nthat remind us of our humanity; creating\nproblems to solve out of spite; tending to my\ntwo adorable felines.\nI am Jaeden, and I often think too hard about nothing. I\nbalance this out with an overflowing store of empathy that can\nsometimes get me into trouble. I think my work reflects that. I\ncreate with the hope that my humanhood will be apparent. I try\nto find out what choice I can make that is so wrong it actually\nbecomes the only right one. The most absolutely rightest\nchoice there ever was.\nThis can all be attributed to my Type 4 personality. I want to\nbe part of a community, but I want to stand out, to be unique. I\nwant so desperately to be understood, though no one will ever\nunderstand me. This is my superpower.",
+      "song": "https://youtu.be/x7GE90n6XX8?si=gjXzaxDTJ1RQdB8L",
+      "quote": "If you want to destroy my sweater, hold this thread as I walk away.",
+      "yourURL": "https://www.linkedin.com/in/jaeden-ives-crow/"
+    },
+    {
+      "name": "Amy George",
+      "favorite_emoji": "💀",
+      "image": "/senior-photo/Amy George.jpg",
+      "bio": "I'm a soon-to-be EWU graduate with a diverse skill set in 3D modeling, animation, and game design. My computer science minor lets me work across both creative and technical sides of a project.\nAt EWU, I completed a university-funded internship designing a website for the Yakama Nation community. I've also designed my own tabletop board game and created six original 3D animations in Blender. My strengths are in 3D modeling and stylized anime-influenced character design, and I draw from cultural influences in my work.\nI'm looking to work as a 3D Modeler, Animator, or Game Environment Artist at indie and motion studios like Hazelight Studios or Illumination.",
+      "song": "https://youtu.be/IGInsosP0Ac?si=TolnMLtlhSZZ6yFQ",
+      "quote": "\"Why are you buying clothes at the soup store?\"",
+      "yourURL": "https://www.linkedin.com/in/amy-george-b1183b257/"
+    },
+    {
+      "name": "Kaileb Cardle",
+      "favorite_emoji": "🙂‍↕️",
+      "image": "/senior-photo/Kaileb Cardle.jpg",
+      "bio": "A really nice person who has a lot to offer!",
+      "song": "https://youtu.be/Tiixq9rT_J0?si=575bk95BUGdylSKM",
+      "quote": "\"You better work\"-RuPaul",
+      "yourURL": "https://www.instagram.com/kailebsdesign/"
+    },
+    {
+      "name": "Mads Gorder",
+      "favorite_emoji": "The one that is cursing.",
+      "image": "/senior-photo/Mads Gorder.jpg",
+      "bio": "I am a weird, snake and cat loving artist. I love playing video games, drawing, reading Manga, and watching cartoons and anime.",
+      "song": "https://youtu.be/ASTjSwwt_gA?si=4h_B4XmTNH1cS_D6",
+      "quote": "With a great degree of difficulty!",
+      "yourURL": "https://www.youtube.com/@Inuxmad"
+    },
+    {
+      "name": "Elizabeth Hernandez",
+      "favorite_emoji": "🫪",
+      "image": "/senior-photo/Elizabeth Hernandez.jpg",
+      "bio": "I make videos about video games online and it makes me moneyyyy :)",
+      "song": "https://www.youtube.com/watch?v=UaCaf7ZAfNQ The Way by Ariana Grande",
+      "quote": "I asked for no pickles and they gave me the mcpickle pounder",
+      "yourURL": "@cozytoastyy on all platforms OR cybersaturn.net"
+    },
+    {
+      "name": "Tristan Holdren",
+      "favorite_emoji": "🫩",
+      "image": "/senior-photo/Tristan Holdren.jpg",
+      "bio": "I'm a graphic designer based out of Spokane, I'm very driven through find creative outlets in all different mediums and try to find variety through my work.",
+      "song": "https://open.spotify.com/track/4J7s7j5ulwElPG7HaGQDXR?si=8620125735254f23",
+      "quote": "\"With great power comes great responsibility\" - Uncle Ben",
+      "yourURL": "https://www.linkedin.com/in/tristan-holdren-43178525a/"
+    },
+    {
+      "name": "Kenia Uribe",
+      "favorite_emoji": "📠",
+      "image": "/senior-photo/Kenia Uribe.jpg",
+      "bio": "Hello, I'm Kenia, a Visual Communication Design student at Eastern Washington University and a soon-to-be graduate with a background in photography. I create Bauhaus-inspired, system-aware design focused on typography, UX, and clear visual communication that feels thoughtful, accessible, and memorable.",
+      "song": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x?si=mWT_DOrfRneSL8uWacVrPQ",
+      "quote": "An angel will never see the Devil as an angel, but to the Devil, it's the angel that is the Devil.",
+      "yourURL": "https://faceless-kei.com/"
+    },
+    {
+      "name": "Jesse Gonzalez",
+      "favorite_emoji": "🐧",
+      "image": "/senior-photo/Jesse Gonzalez.jpg",
+      "bio": "If you're wanting to talk about robots, animals, or superheroes, then you have my absolute attention! I love playing games, illustrating in my sketchbook, listening to some rock and metal, or hibernating in my bed.",
+      "song": "https://youtu.be/T1EJZsaqevU?si=mIiutC7Dl3_qhWUL",
+      "quote": "\"Wow, I've never thought about it like that before, and I never will. I've already forgotten what you said. Goodbye forever!\"",
+      "yourURL": "https://www.instagram.com/ojessum?igsh=NTc2dzhjZ2d3NDA%3D&utm_source=qr"
+    },
+    {
+      "name": "Makenna Wieck",
+      "favorite_emoji": "I hate emojis",
+      "image": "/senior-photo/Makenna Wieck.jpg",
+      "bio": "My name is Makenna Wieck, and I am a designer with ambition. I am currently working on my Bachelor's in Visual Communication Design. My design focus is on illustration, as Adobe Illustrator is my favorite software. I prefer illustration over user experience design or web development. I like to combine my art with design, as they are separate concepts with significant overlap.",
+      "song": "https://youtu.be/OAsU3cRuhWI?si=ReQWKg2-Fl7wngRV",
+      "quote": "\"I wish I had acquired wisdom at less of a price.\" -Hosea Matthews (Red Dead Redemption 2)",
+      "yourURL": "https://www.instagram.com/baxter_james_96/"
+    },
+    {
+      "name": "Mary Boyd",
+      "favorite_emoji": "🧡🥰",
+      "image": "/senior-photo/Mary Boyd.jpg",
+      "bio": "Hello there, I'm Mary, a Washington-based designer and animator who spent years as a bookkeeper at an insurance brokerage before realizing I was a creative at heart. I pivoted from spreadsheets to animation, combining a bookkeeper's precision with a storyteller's imagination. Now, I am a high-energy creative ready to work my butt off to see my projects become a reality.",
+      "song": "https://youtu.be/pBuZEGYXA6E?si=oQ9LxPZmiaN8rHvU&t=8",
+      "quote": "The death of perfection is the birth of momentum.",
+      "yourURL": "https://www.linkedin.com/in/mary-boyd-pnw-designer/"
     }
   ]
 }

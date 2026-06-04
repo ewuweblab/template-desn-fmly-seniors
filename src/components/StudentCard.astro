@@ -1,21 +1,15 @@
 ---
-const { name, image, favorite_emoji, github_permalink, github_profile, codepen_profile } = Astro.props;
+import { Image } from "astro:assets";
+const { name, image, favorite_emoji, bio, song, quote, yourURL } = Astro.props;
 const slug = name.toLowerCase().replace(/\s+/g, "-");
 ---
 
-<figure class="card">
-  
-  <img src={image} alt={name} loading="lazy" transition:name={`photo-${slug}`} />
-
-  <figcaption class="card-name" transition:name={`name-${slug}`}>
-    <a href={`/${slug}`}><span class="card-emoji">{favorite_emoji}</span> {name}</a>
-  </figcaption>
-  <nav class="card-links">
-    <a href={github_permalink} target="_blank" rel="noopener">Portfolio</a>
-    <a href={github_profile} target="_blank" rel="noopener">GitHub</a>
-    <a href={codepen_profile} target="_blank" rel="noopener">CodePen</a>
-  </nav>
-</figure>
+<a href={`/${slug}`} class="card-link">
+  <figure class="card">
+    <figcaption class="card-name" transition:name={`name-${slug}`}>{name}</figcaption>
+    <Image src={image} alt={name} widths={[400, 800]} sizes="(max-width: 600px) 100vw, 400px" inferSize={typeof image === "string"} transition:name={`photo-${slug}`} />
+  </figure>
+</a>
 
 <style>
   .card {
@@ -27,9 +21,9 @@ const slug = name.toLowerCase().replace(/\s+/g, "-");
     border: 1px solid lightgray;
   }
 
-  .card img {
+  .card :global(img) {
     width: 100%;
-    aspect-ratio: 3 / 2;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
     display: block;
   }
@@ -56,5 +50,22 @@ const slug = name.toLowerCase().replace(/\s+/g, "-");
   .card-links a:hover {
     background: gray;
     color: white;
+  }
+
+  .card-link {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    aspect-ratio: 1 / 1;
+  }
+
+  .card {
+    flex: 1;
+    overflow: hidden;
+  }
+
+  .card-link:hover .card {
+    border-color: goldenrod;
   }
 </style>
